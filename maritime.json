@@ -1,0 +1,10 @@
+{
+  "agent": "07f9f4f9-4604-46da-90e2-cb83b8d057b4",
+  "framework": "openclaw",
+  "soul": "agents/STOCK/SOUL.md",
+  "env": {
+    "OPENCLAW_HEADLESS": "true",
+    "OPENCLAW_SOUL_FILE": "/home/user/.openclaw/workspace/SOUL.md"
+  },
+  "secrets": ["ANTHROPIC_API_KEY"]
+}
